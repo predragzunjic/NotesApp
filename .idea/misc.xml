@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.175" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/border_commitment.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_commitment.xml" value="0.15625" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/commitment.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/dialog_add_commitment.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_commitments.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fullfiled_commitments_activity.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toolbar.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/menu/add_commitment_menu.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication/app/src/main/res/menu/app_bar_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/FinishedCommitmentViewModel.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
